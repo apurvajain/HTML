@@ -1,0 +1,59 @@
+
+header {
+  text-align: center;
+}
+
+nav ul li
+{
+  display : inline-block;
+}
+section nav ul li
+{
+  display: block ;
+}
+
+section nav 
+{
+  float : left;
+  width : 20%;
+}
+
+section article 
+{
+  float : left;
+  width: 80%;
+}
+
+
+article div 
+{
+  float: left;
+  width: 50%;
+}
+
+article main div
+{
+  clear : both;
+
+}
+
+footer p
+{
+clear : both;
+text-align: center;
+}
+
+footer
+{
+clear : both;
+}
+
+footer nav
+{
+text-align: center;
+}
+
+section
+{
+  overflow : hidden;
+}
